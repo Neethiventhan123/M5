@@ -1,5 +1,5 @@
-# Name: K.Preetha
-# Register Number: 212224100044
+# Name: N.Neethiventhan
+# Register Number: 212223100038
 
 # EX-21-POINTERS
 # AIM:
